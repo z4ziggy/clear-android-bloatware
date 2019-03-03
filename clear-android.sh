@@ -82,21 +82,21 @@ adb shell pm uninstall -k --user 0 com.hancom.office.editor.hidden
 adb shell pm uninstall -k --user 0 com.samsung.android.keyguardwallpaperupdator 
 adb shell pm uninstall -k --user 0 com.samsung.android.app.news 
 adb shell pm uninstall -k --user 0 com.android.egg 
-adb shell pm uninstall -k --user 0 com.sec.android.widgetapp.samsungapps Samsung Game Launcher 
+adb shell pm uninstall -k --user 0 com.sec.android.widgetapp.samsungapps
 adb shell pm uninstall -k --user 0 com.samsung.android.game.gamehome 
 adb shell pm uninstall -k --user 0 com.enhance.gameservice 
-adb shell pm uninstall -k --user 0 com.samsung.android.game.gametools Samsung Browser 
+adb shell pm uninstall -k --user 0 com.samsung.android.game.gametools
 adb shell pm uninstall -k --user 0 com.sec.android.app.sbrowser 
-adb shell pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge Samsung Email 
+adb shell pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
 adb shell pm uninstall -k --user 0 com.samsung.android.email.provider 
 adb shell pm uninstall -k --user 0 com.wsomacp VR 
 adb shell pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc 
 adb shell pm uninstall -k --user 0 com.samsung.android.app.vrsetupwizardstub 
 adb shell pm uninstall -k --user 0 com.samsung.android.hmt.vrshell 
-adb shell pm uninstall -k --user 0 com.google.vr.vrcore Samsung LED Cover 
+adb shell pm uninstall -k --user 0 com.google.vr.vrcore
 adb shell pm uninstall -k --user 0 com.samsung.android.app.ledcoverdream 
-adb shell pm uninstall -k --user 0 com.sec.android.cover.ledcover Samsung DEX 
-adb shell pm uninstall -k --user 0 com.sec.android.app.desktoplauncher Samsung TV 
+adb shell pm uninstall -k --user 0 com.sec.android.cover.ledcover
+adb shell pm uninstall -k --user 0 com.sec.android.app.desktoplauncher
 adb shell pm uninstall -k --user 0 com.sec.android.app.withtv
 
 adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox 
