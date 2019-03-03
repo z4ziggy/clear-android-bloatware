@@ -60,6 +60,7 @@ adb shell pm uninstall -k --user 0 com.samsung.android.bixby.plmsync
 adb shell pm uninstall -k --user 0 com.samsung.systemui.bixby 
 adb shell pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy 
 adb shell pm uninstall -k --user 0 com.samsung.android.bixby.voiceinput 
+adb shell pm uninstall -k --user 0 com.samsung.systemui.bixby2
 
 adb shell pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels 
 adb shell pm uninstall -k --user 0 com.dsi.ant.service.socket 
