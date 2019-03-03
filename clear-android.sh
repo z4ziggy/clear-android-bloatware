@@ -99,8 +99,6 @@ adb shell pm uninstall -k --user 0 com.sec.android.cover.ledcover
 adb shell pm uninstall -k --user 0 com.sec.android.app.desktoplauncher
 adb shell pm uninstall -k --user 0 com.sec.android.app.withtv
 
-adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox 
-adb shell pm uninstall -k --user 0 com.google.android.gm 
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon 
 adb shell pm uninstall -k --user 0 com.google.android.music 
 adb shell pm uninstall -k --user 0 com.google.android.apps.docs 
