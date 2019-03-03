@@ -51,6 +51,7 @@ adb shell pm uninstall -k --user 0 com.samsung.android.service.travel
 adb shell pm uninstall -k --user 0 com.tripadvisor.tripadvisor 
 adb shell pm uninstall -k --user 0 com.android.email 
 adb shell pm uninstall -k --user 0 com.sec.android.app.ocr
+adb shell pm uninstall -k --user 0 com.samsung.android.messaging
 
 adb shell pm uninstall -k --user 0 com.samsung.android.bixby.agent 
 adb shell pm uninstall -k --user 0 com.samsung.android.bixby.es.globalaction 
